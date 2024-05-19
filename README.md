@@ -1,13 +1,9 @@
-### RIFT Intel Fusion Tool
+### RIFT预警频道
 
-RIFT is a third party tool for the video game EVE Online.
-For more details and downloads see the project website: [riftforeve.online](https://riftforeve.online)
+RIFT 是一个第三方应用工具，利用预警频道来通知玩家附近的警报。
 
-### Contact
+这个项目来自于: [riftforeve.online](https://riftforeve.online)
 
-- Email: developer@riftforeve.online
-- Discord: See the website for an invite link to the project's support server
+### 联系方式
 
-### Building
-
-To run the project, execute: `./gradlew run`. This will download all dependencies, build and run the project.
+- In game: mogu magic
